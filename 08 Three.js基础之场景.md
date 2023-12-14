@@ -281,7 +281,7 @@ add: function (object) {
 
 #### 代码文件说明：
 
-1. 我们将在 src/components/hello-scene/ 目录下创建 index.stx 作为本次演示主文件。
+1. 我们将在 src/components/hello-scene/ 目录下创建 index.tsx 作为本次演示主文件。
 
 2. 与以往代码不同，这次我们将创建 太阳、地球、月亮、以及 光源 的过程迁移到另外一个单独的文件中 ，好让我们在  useEffect 中的代码更加清爽一些。
 
